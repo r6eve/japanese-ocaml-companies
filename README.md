@@ -29,8 +29,13 @@ inspired by (ファースト・コミット順)
 
 ## 会社一覧
 
-TBD
+### [株式会社ドワンゴ](http://dwango.co.jp)
 
+- Fialyzer
+  - https://github.com/dwango/fialyzer
+  - Erlangの静的型システム
+
+[niconico](http://dwango.co.jp/business/portal.html)の配信基盤システムなどErlangで書かれたシステムを高品質かつ効率よく開発できることが目的です。
 
 [japanese-erlang-elixir-companies]: https://github.com/voluntas/japanese-erlang-elixir-companies
 [japanese-clojure-companies]: https://github.com/athos/japanese-clojure-companies
