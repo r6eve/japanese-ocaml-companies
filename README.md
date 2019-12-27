@@ -40,10 +40,10 @@ inspired by (ファースト・コミット順)
 
 ### [コースベース株式会社](https://coursebase.co)
 
-- サービスレイヤーでは ReasonML を JavaScript にコンパイルして Node.js 環境で使 用しています。
+- サービスレイヤーでは ReasonML を JavaScript にコンパイルして Node.js 環境で使用しています。
 - UI レイヤーでは ReasonReact を使用しています。
 
-Coursebase は社員研修や顧客研修を管理するための次世代型研修管理プラットフォーム です。私たちは現在、ReasonML の経験がある、あるいは他の関数型や静的型の言語の経 験があり ReasonML を学びたいという強い意思を持つフルスタックエンジニアを探してい ます。情熱を持ったスモールチームで働くことに興味をお持ちの方は、ぜひお気軽にお問 い合わせください。
+Coursebase は社員研修や顧客研修を管理するための次世代型研修管理プラットフォームです。私たちは現在、ReasonML の経験がある、あるいは他の関数型や静的型の言語の経験があり ReasonML を学びたいという強い意思を持つフルスタックエンジニアを探しています。情熱を持ったスモールチームで働くことに興味をお持ちの方は、ぜひお気軽にお問い合わせください。
 
 [japanese-erlang-elixir-companies]: https://github.com/voluntas/japanese-erlang-elixir-companies
 [japanese-clojure-companies]: https://github.com/athos/japanese-clojure-companies
